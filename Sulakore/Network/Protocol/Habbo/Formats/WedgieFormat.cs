@@ -3,7 +3,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Collections.Generic;
 
-namespace Sulakore.Network.Protocol
+namespace Sulakore.Network.Protocol.Habbo
 {
     public class WedgieFormat : HFormat
     {

@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Threading.Tasks;
 using System.Collections.Generic;
+using Sulakore.Network.Protocol.Habbo;
 
 namespace Sulakore.Network.Protocol
 {
